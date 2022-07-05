@@ -2,7 +2,7 @@
 
 - 🖥️ Sou aluno de Analise e Desenvolvimento de Sistemas pelo IFRN
 - 🤖  Estuando curso Online Fullstack em PHP
-- 🧑‍💻 Estudando tambem React Native
+- 🧑‍💻 Estudando React Native e NextJs
 
 <div>
   <a href="https://github.com/paulo0264">
