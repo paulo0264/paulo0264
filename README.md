@@ -1,7 +1,7 @@
 ### Olá Me chamo Paulo Fagundes 👋
 
 - 🖥️ Sou aluno de Analise e Desenvolvimento de Sistemas pelo IFRN
-- 🤖  Estuando curso Online Fullstack em PHP
+- 🤖  Estudando curso Online Fullstack em PHP
 - 🧑‍💻 Estudando React Native e NextJs
 
 <div>
