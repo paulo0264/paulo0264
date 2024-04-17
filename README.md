@@ -1,6 +1,6 @@
 ### Olá Me chamo Paulo Fagundes 👋
 
-- 🖥️ Aluno do 7º periodo de Analise e Desenvolvimento de Sistemas do IFRN
+- 🖥️ Graduado em Analise e Desenvolvimento de Sistemas do IFRN
 - 🧑‍💻 Estudando Python com Framwork Django
 - 🤖  Estudando curso Online Fullstack em PHP e Framwork Laravel
 - 🧑‍💻 Estudando React Native e NextJs
