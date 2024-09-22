@@ -1,9 +1,10 @@
 ### Olá Me chamo Paulo Fagundes 👋
 
 - 🖥️ Graduado em Analise e Desenvolvimento de Sistemas do IFRN
+- 🖥️ PósGraduando em CyberSegurança na FOCUS
 - 🧑‍💻 Estudando Python com Framwork Django
-- 🤖  Estudando curso Online Fullstack em PHP e Framwork Laravel
-- 🧑‍💻 Estudando React Native e NextJs
+- 🧑‍💻 Estudando ReactJS e NextJs
+- 🤖  Estudando PHP e Framwork Laravel
 - 🧑‍💻 Teste de software
 
 <div>
