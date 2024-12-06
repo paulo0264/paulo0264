@@ -2,8 +2,8 @@
 
 - 🖥️ Graduado em Analise e Desenvolvimento de Sistemas do IFRN
 - 🖥️ PósGraduando em CyberSegurança na FOCUS
-- 🧑‍💻 Estudando Python com Framwork Django
-- 🧑‍💻 Estudando ReactJS e NextJs
+- 🧑‍💻 Desenvolvedor Python com Framwork Django
+- 🧑‍💻 Desenvolvedor NodeJS, ReactJS e NextJs
 - 🤖  Estudando PHP e Framwork Laravel
 - 🧑‍💻 Teste de software
 
